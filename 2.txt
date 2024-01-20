@@ -5,4 +5,8 @@ second file
 
 try to add in 2.txt in B-Ordner and make a commit
 
+<<<<<<< HEAD
 try to create conflict in 2.txt in A-Ordner
+=======
+try to create conflict in 2.txt in A-Ordner
+>>>>>>> db08aeba195f63146dd735d1c1338ed14d85e363
