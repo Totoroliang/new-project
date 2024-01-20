@@ -4,3 +4,5 @@ second file
 
 
 try to add in 2.txt in B-Ordner and make a commit
+
+try to create conflict in 2.txt in A-Ordner
